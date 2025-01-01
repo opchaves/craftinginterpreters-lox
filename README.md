@@ -19,4 +19,4 @@ mvn archetype:generate \
   -DinteractiveMode=false
 ```
 
-If you are not familiar with Maven, you start learning [Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
+If you are not familiar with Maven, you can start learning [Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
